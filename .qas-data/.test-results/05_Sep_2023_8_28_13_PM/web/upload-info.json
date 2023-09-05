@@ -1,0 +1,248 @@
+[
+  {
+    "keyword": "Feature",
+    "name": "Case 2 New version",
+    "line": 9,
+    "description": "",
+    "id": "Case 2 New version",
+    "tags": [],
+    "uri": "Bank/Case 2 New version",
+    "testSuiteName": "Bank",
+    "type": "web",
+    "appName": "chrome",
+    "capability": {
+      "remoteUrl": "https://qas.qmetry.com\\bank\\",
+      "type": "web",
+      "selectBrowser": "chrome",
+      "selectDevice": "",
+      "isRemote": false,
+      "remoteHubUrl": "http://127.0.0.1:4444/wd/hub/",
+      "isDebugMode": false,
+      "details": {
+        "deviceMetrics": {
+          "name": "",
+          "width": "",
+          "height": "",
+          "pixelRatio": "",
+          "userAgent": ""
+        }
+      }
+    },
+    "desiredCapabilities": {},
+    "elements": [
+      {
+        "id": "Case 2 New version",
+        "keyword": "Scenario",
+        "description": "",
+        "line": 9,
+        "name": "Case 2 New version",
+        "type": "scenario",
+        "testData": "",
+        "executionStatus": "Passed",
+        "tagName": [],
+        "capability": {
+          "remoteUrl": "https://qas.qmetry.com\\bank\\",
+          "type": "web",
+          "selectBrowser": "chrome",
+          "selectDevice": "",
+          "isRemote": false,
+          "remoteHubUrl": "http://127.0.0.1:4444/wd/hub/",
+          "isDebugMode": false,
+          "details": {
+            "deviceMetrics": {
+              "name": "",
+              "width": "",
+              "height": "",
+              "pixelRatio": "",
+              "userAgent": ""
+            }
+          }
+        },
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given",
+            "line": 1,
+            "name": "get https://qas.qmetry.com\\bank\\",
+            "match": {
+              "location": "Case 2 New version/01"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 4698000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "line": 2,
+            "name": "clear id=txtUsername",
+            "match": {
+              "location": "Case 2 New version/11"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 634000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "line": 3,
+            "name": "sendKeys Bob into id=txtUsername",
+            "match": {
+              "location": "Case 2 New version/21"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 710000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "line": 4,
+            "name": "clear id=txtPassword",
+            "match": {
+              "location": "Case 2 New version/31"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 653000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "line": 5,
+            "name": "sendKeys ****** into id=txtPassword",
+            "match": {
+              "location": "Case 2 New version/41"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 620000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "line": 6,
+            "name": "click on id=version",
+            "match": {
+              "location": "Case 2 New version/51"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 706000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "line": 7,
+            "name": "click on id=btnLogin",
+            "match": {
+              "location": "Case 2 New version/61"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 678000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "line": 8,
+            "name": "clear id=txtWithdrawn",
+            "match": {
+              "location": "Case 2 New version/71"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 674000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "line": 9,
+            "name": "sendKeys 10 into id=txtWithdrawn",
+            "match": {
+              "location": "Case 2 New version/81"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 667000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "line": 10,
+            "name": "click on id=btnWithdrawn",
+            "match": {
+              "location": "Case 2 New version/91"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 683000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "line": 11,
+            "name": "clear id=txtDeposite",
+            "match": {
+              "location": "Case 2 New version/101"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 652000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "line": 12,
+            "name": "sendKeys 10 into id=txtDeposite",
+            "match": {
+              "location": "Case 2 New version/111"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 685000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "line": 13,
+            "name": "click on id=btnDeposite",
+            "match": {
+              "location": "Case 2 New version/121"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 686000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "line": 14,
+            "name": "click on xpath=//button",
+            "match": {
+              "location": "Case 2 New version/131"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 658000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,103 @@
+{
+  "seleniumLog": [],
+  "checkPoints": [
+    {
+      "message": "Given get https://qas.qmetry.com\\bank\\",
+      "type": "TestStepPass",
+      "duration": 4698,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "And clear id=txtUsername",
+      "type": "TestStepPass",
+      "duration": 634,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "And sendKeys Bob into id=txtUsername",
+      "type": "TestStepPass",
+      "duration": 710,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "And clear id=txtPassword",
+      "type": "TestStepPass",
+      "duration": 653,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "And sendKeys ****** into id=txtPassword",
+      "type": "TestStepPass",
+      "duration": 620,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "And click on id=version",
+      "type": "TestStepPass",
+      "duration": 706,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "And click on id=btnLogin",
+      "type": "TestStepPass",
+      "duration": 678,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "And clear id=txtWithdrawn",
+      "type": "TestStepPass",
+      "duration": 674,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "And sendKeys 10 into id=txtWithdrawn",
+      "type": "TestStepPass",
+      "duration": 667,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "And click on id=btnWithdrawn",
+      "type": "TestStepPass",
+      "duration": 683,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "And clear id=txtDeposite",
+      "type": "TestStepPass",
+      "duration": 652,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "And sendKeys 10 into id=txtDeposite",
+      "type": "TestStepPass",
+      "duration": 685,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "And click on id=btnDeposite",
+      "type": "TestStepPass",
+      "duration": 686,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "And click on xpath=//button",
+      "type": "TestStepPass",
+      "duration": 658,
+      "threshold": 0,
+      "subCheckPoints": []
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "reports": [
+    {
+      "name": "Bank",
+      "dir": ".qas-data/.test-results/05_Sep_2023_8_28_13_PM",
+      "startTime": 1693925893454
+    },
+    {
+      "name": "Bank",
+      "dir": ".qas-data/.test-results/05_Sep_2023_8_18_38_PM",
+      "startTime": 1693925318849
+    },
+    {
+      "name": "Bank",
+      "dir": ".qas-data/.test-results/05_Sep_2023_8_14_50_PM",
+      "startTime": 1693925090850
+    }
+  ]
+}

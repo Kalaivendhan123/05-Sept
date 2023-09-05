@@ -1,0 +1,26 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "author": "kalaivendhan.desingu",
+        "description": "",
+        "groups": [],
+        "lineNo": 0,
+        "name": "Case 2 New version",
+        "referece": "",
+        "resultFileName": "Case 2 New version",
+        "testSuiteName": "Bank",
+        "sign": "",
+        "executedOn": "Local"
+      },
+      "dependsOn": [],
+      "startTime": 0,
+      "duration": 11527000000,
+      "result": "pass",
+      "passPer": 0
+    }
+  ]
+}
